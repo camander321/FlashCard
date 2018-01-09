@@ -1,6 +1,12 @@
+body, html {
+  background-image: url(https://tctechcrunch2011.files.wordpress.com/2015/04/codecode.jpg);
+  background-size: 2000px;
+}
+
 h4 {
   text-align: center;
 }
+
 
 .definition {
   display: none;
@@ -10,7 +16,19 @@ h4 {
   text-align: center;
 }
 
+.well {
+  margin-left: 3px;
+  margin-right: 3px;
+  min-height: 250px;
+}
+
 #jumbo {
   text-align: center;
-  margin-top: 250px;
+  margin-top: 100px;
+}
+
+img {
+  max-width: 100px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
