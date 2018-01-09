@@ -1,0 +1,16 @@
+h4 {
+  text-align: center;
+}
+
+.definition {
+  display: none;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+#jumbo {
+  text-align: center;
+  margin-top: 250px;
+}
