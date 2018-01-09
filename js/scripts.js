@@ -6,4 +6,8 @@ $(document).ready(function() {
     document.getElementById("clicked-topic").innerHTML = this.innerHTML;
   });
 
+  $(".clear").click(function() {
+    $(".definition").hide();
+  });
+
 });
